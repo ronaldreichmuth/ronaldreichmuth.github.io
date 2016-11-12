@@ -8,10 +8,9 @@ Geschafft! Seite ist Online - besten Dank an Hank Quinlan ;-) Mit Hilfe von [Jek
 
 
 ```C
-printf()
+printf("Test");
 i++;
 i = 0;
-
 ```
 
 ```ruby
@@ -20,8 +19,3 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
