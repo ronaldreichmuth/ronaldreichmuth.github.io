@@ -1,5 +1,7 @@
 body { margin: 60px auto; width: 70%; }
 
+Rouge::Themes::Base16.mode(:light).render(scope: '.highlight')
+
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
