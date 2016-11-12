@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Site Launch"
+title: "Seite ist Online"
 date: 2016-11-11
 ---
 
