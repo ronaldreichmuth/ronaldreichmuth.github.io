@@ -20,4 +20,4 @@ puts markdown.to_html
 ```
 
 
-![email](https://github.com/Roni8840/roni8840.github.io/blob/master/images/icons/mail.svg)
+![email](https://github.com/Roni8840/roni8840.github.io/images/icons/mail.svg)
