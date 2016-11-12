@@ -8,6 +8,7 @@ title: Ronald Reichmuth
 </div><!-- /.blurb -->
 
 {{#markdown}}
+{{/markdown}}
 
 <a href='mailto:ronald.reichmuth@icloud.com' id='link-email'>
 	
@@ -16,5 +17,5 @@ title: Ronald Reichmuth
 	
 <%= Time.now.year %>
 	
-{{/markdown}}
+
 
