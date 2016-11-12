@@ -19,5 +19,3 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-
-![email](https://roni8840.github.io/images/icons/mail.svg)
