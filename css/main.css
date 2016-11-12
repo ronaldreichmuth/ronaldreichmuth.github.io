@@ -1,5 +1,7 @@
 body { margin: 60px auto; width: 70%; }
 
+Rouge::Formatters::HTMLPygments.new(formatter, css_class='codehilite') 
+
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
