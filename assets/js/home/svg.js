@@ -1,6 +1,6 @@
 $(document).ready(function() {
   if(!$('.Me-social').length) return;
-  ['twitter', 'github', 'email', 'linkedin'].forEach(function(linkType) {
+  ['xing', 'github', 'email', 'linkedin'].forEach(function(linkType) {
     var $elem = $('#link-' + linkType + ' svg')
     var $hover = $elem.clone().insertAfter($elem);
 
