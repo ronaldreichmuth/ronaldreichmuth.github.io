@@ -9,7 +9,7 @@ title: Ronald's Blog
   <section class='TimelineItem-details'>
     <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     <h3><time pubdate="true">{{ post.date | date_to_string }}</time></h3>
-    <p>{{ post.article }}</p>
+    <p>{{ post.content }}</p>
   </section>
 </article>
 {% endfor %}
