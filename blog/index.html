@@ -2,6 +2,7 @@
 layout: default2
 title: Ronald's Blog
 ---
+<!--
 <h1>{{ page.title }}</h1>
 <ul class="posts">
 
@@ -10,15 +11,16 @@ title: Ronald's Blog
   {% endfor %}
 
 </ul>
+-->
 
 
 {% for post in site.posts %}
 <article class='TimelineItem'>
   <aside>
-    <h2>{{ post.date | date_to_string }}</h2>
+    <h3>{{ post.date | date_to_string }}</h3>
   </aside>
   <section class='TimelineItem-details'>
-    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+    <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
   </section>
 </article>
 {% endfor %}
