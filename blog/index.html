@@ -16,14 +16,23 @@ title: Ronald's Blog
 
 
 {% for post in site.posts %}
-<article class='TimelineItem'>
+<article class='TimelineItem TimelineItem--post'>
   <section class='TimelineItem-details'>
-    <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+    <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     <p>{{ post.date | date_to_string }}</p>
+    <h3><time pubdate="true">{{ post.date | date_to_string }}</time></h3>
   </section>
 </article>
 {% endfor %}
 
+
+
+
+<article class='TimelineItem TimelineItem--topLink'>
+  <section class='TimelineItem-footer TimelineItem-footer--blog'>
+    <h3><a>Take me back to the top!</a></h3>
+  </section>
+</article>
 
 <!--
 <a href="https://roni8840.github.io/blog/atom.xml">rss</a>
