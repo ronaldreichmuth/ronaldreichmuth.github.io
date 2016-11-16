@@ -7,15 +7,14 @@ Das ist meine persönliche Seite - [roni8840.github.com](https://roni8840.github
 ### Directory structure
 
 ~~~bash
-├── _layouts            # Layouts
-├── _posts              # Enthält alle Blog Beiträge
+├── _layouts        # Layouts
+├── _posts          # Enthält alle Blog Beiträge
 └── assets
-    ├── assets
-    │   ├── css         # stylesheets
-    │   ├── images      # favicons live here (moved into root during build)
-    │   ├── js          # javascripts
-└── downloads           # Downloads
-index.html              # Startseite  
+    ├── css         # stylesheets
+    ├── images      # favicons live here (moved into root during build)
+    ├── js          # javascripts
+└── downloads       # Downloads
+index.html          # Startseite  
 ~~~
 
 
@@ -25,4 +24,4 @@ Forke dieses Repository oder benütze es als Template für deine eigene Webseite
 
 ## License
 
-Copyright © 2016 Ronald Reichmuth MPLv2 Lizenziert, siehe [LICENSE](https://github.com/Roni8840/roni8840.github.io/blob/master/LICENSE.md) für weitere informationen.
+Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/Roni8840/roni8840.github.io/blob/master/LICENSE.md) und [Beerware](https://github.com/Roni8840/roni8840.github.io/blob/master/Beerware.md) Lizenziert, siehe  für weitere informationen.
