@@ -24,7 +24,7 @@ Forke dieses Repository oder benütze es als Template für deine eigene Webseite
 
 roni8840.github.io/assets/images/bitcoin.png
 
-![Bitcoin Wallet](https://roni8840.github.io/assets/images/bitcoin.png "Bitcoin Wallet")
+![](https://roni8840.github.io/assets/images/bitcoin.png "Bitcoin Wallet")
 
 
 ## License
