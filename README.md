@@ -24,4 +24,4 @@ Forke dieses Repository oder benütze es als Template für deine eigene Webseite
 
 ## License
 
-Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/Roni8840/roni8840.github.io/blob/master/LICENSE.md) und [Beerware](https://github.com/Roni8840/roni8840.github.io/blob/master/Beerware.md) Lizenziert, siehe  für weitere informationen.
+Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/Roni8840/roni8840.github.io/blob/master/LICENSE.md) und [Beerware](https://github.com/Roni8840/roni8840.github.io/blob/master/beerware.md) Lizenziert, siehe  für weitere informationen.
