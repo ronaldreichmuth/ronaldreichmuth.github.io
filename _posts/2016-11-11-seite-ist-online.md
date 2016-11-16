@@ -15,7 +15,6 @@ i = 0;
 
 ```ruby
 require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+markdown = Redcarpet.new("Hi")
 puts markdown.to_html
 ```
-
