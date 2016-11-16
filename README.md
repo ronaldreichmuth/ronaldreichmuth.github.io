@@ -22,6 +22,11 @@ index.html          # Startseite
 
 Forke dieses Repository oder benütze es als Template für deine eigene Webseite.
 
+roni8840.github.io/assets/images/bitcoin.png
+
+![Bitcoin Wallet](https://roni8840.github.io/assets/images/bitcoin.png "Bitcoin Wallet")
+
+
 ## License
 
 Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/Roni8840/roni8840.github.io/blob/master/LICENSE.md) und [Beerware](https://github.com/Roni8840/roni8840.github.io/blob/master/beerware.md) Lizenziert, siehe  für weitere informationen.
