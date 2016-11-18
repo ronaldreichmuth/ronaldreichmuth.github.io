@@ -2109,7 +2109,7 @@ body.index header .MainMenu {
     stroke: #be90d4
 }
 .Me-social a#link-email svg:nth-child(2) path {
-    stroke: #2ecc71
+    stroke: #00aced
 }
 .Me-social a#link-linkedin svg:nth-child(2) path {
     stroke: #0079bb
