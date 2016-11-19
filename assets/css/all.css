@@ -2157,9 +2157,9 @@ body.index header .MainMenu {
     }
     .Me-mugshot img {
         height: calc(15vw + 100px);
-        -webkit-transform: rotate(180deg);
-        -ms-transform: rotate(180deg);
-        transform: rotate(180deg);
+        -webkit-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        transform: rotate(0deg);
         position: absolute;
         left: 1em;
         top: 0
