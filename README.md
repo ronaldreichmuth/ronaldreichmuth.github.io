@@ -1,7 +1,7 @@
 # roni8840.github.io
 
 
-Das ist meine persönliche Seite - [roni8840.github.com](https://roni8840.github.io) - mit Hilfe von Jekyll wird statischen HTML erzeugt und mit Markdown kann der Inhalt einfach formatiert werden. Die Webseite wird auf Github Pages gehostet ([pages.github.com](https://pages.github.com)).
+Das ist meine persönliche Seite - [roni8840.github.com](https://roni8840.github.io) - mit Hilfe von Jekyll wird statischen HTML erzeugt der mit Hilfe von Markdown formatiert werden kann. Die Webseite wird auf Github Pages gehostet ([pages.github.com](https://pages.github.com)).
 
 
 ### Directory structure
