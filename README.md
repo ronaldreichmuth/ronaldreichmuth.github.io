@@ -7,7 +7,7 @@ Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldre
 ### Directory structure
 
 ~~~bash
-├── _layouts        # Layouts
+├── _layouts        # Layouts, Templates
 ├── _posts          # Enthält alle Blog Beiträge
 └── assets
     ├── css         # stylesheets
@@ -15,6 +15,7 @@ Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldre
     ├── js          # javascripts
 └── downloads       # Downloads
 index.html          # Startseite  
+_config.yml         # Speichert die Konfiguraiton
 ~~~
 
 
