@@ -11,7 +11,7 @@ Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldre
 ├── _posts          # Enthält alle Blog Beiträge
 └── assets
     ├── css         # stylesheets
-    ├── images      # favicons live here (moved into root during build)
+    ├── images      # favicons live here
     ├── js          # javascripts
 └── downloads       # Downloads
 index.html          # Startseite  
