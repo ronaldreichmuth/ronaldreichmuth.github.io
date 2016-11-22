@@ -1,7 +1,7 @@
-# roni8840.github.io
+# ronaldreichmuth.github.io
 
 
-Das ist meine persönliche Seite - [roni8840.github.com](https://roni8840.github.io) - mit Hilfe von Jekyll wird statischen HTML erzeugt der mit Hilfe von Markdown formatiert werden kann. Die Webseite wird auf Github Pages gehostet ([pages.github.com](https://pages.github.com)).
+Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldreichmuth.github.io) - mit Hilfe von Jekyll wird statischen HTML erzeugt der mit Hilfe von Markdown formatiert werden kann. Die Webseite wird auf Github Pages gehostet ([pages.github.com](https://pages.github.com)).
 
 
 ### Directory structure
@@ -22,9 +22,9 @@ index.html          # Startseite
 
 Forke dieses Repository oder benütze es als Template für deine eigene Webseite.
 
-![](https://roni8840.github.io/assets/images/bitcoin.png "Bitcoin Wallet")
+![](https://ronaldreichmuth.github.io/assets/images/bitcoin.png "Bitcoin Wallet")
 
 
 ## License
 
-Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/Roni8840/roni8840.github.io/blob/master/LICENSE.md) und [Beerware](https://github.com/Roni8840/roni8840.github.io/blob/master/beerware.md) Lizenziert, siehe  für weitere informationen.
+Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/ronaldreichmuth/ronaldreichmuth.github.io/blob/master/LICENSE.md) und [Beerware](https://github.com/ronaldreichmuth/ronaldreichmuth.github.io/blob/master/beerware.md) Lizenziert, siehe  für weitere informationen.
