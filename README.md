@@ -1,7 +1,7 @@
 # ronaldreichmuth.github.io
 
 
-Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldreichmuth.github.io) - mit Hilfe von Jekyll wird statischen HTML erzeugt der mit Hilfe von Markdown formatiert werden kann. Die Webseite wird auf Github Pages gehostet ([pages.github.com](https://pages.github.com)).
+Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldreichmuth.github.io) - mit Hilfe von Jekyll wird statischen HTML erzeugt der mit Markdown formatiert werden kann. Die Webseite wird auf Github Pages gehostet ([pages.github.com](https://pages.github.com)).
 
 
 ### Directory structure
@@ -28,4 +28,4 @@ Forke dieses Repository oder benütze es als Template für deine eigene Webseite
 
 ## License
 
-Copyright © 2016 Ronald Reichmuth unter [MPLv2](https://github.com/ronaldreichmuth/ronaldreichmuth.github.io/blob/master/LICENSE.md)  Lizenziert.
+Copyright © 2017 Ronald Reichmuth unter [MPLv2](https://github.com/ronaldreichmuth/ronaldreichmuth.github.io/blob/master/LICENSE.md)  Lizenziert.
