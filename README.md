@@ -25,4 +25,4 @@ Forke dieses Repository oder benütze es als Template für deine eigene Webseite
 
 ## License
 
-Copyright © 2017 Ronald Reichmuth unter [MPLv2](https://github.com/ronaldreichmuth/ronaldreichmuth.github.io/blob/master/LICENSE.md)  Lizenziert.
+Copyright © 2018 Ronald Reichmuth unter [MPLv2](https://github.com/ronaldreichmuth/ronaldreichmuth.github.io/blob/master/LICENSE.md)  Lizenziert.
