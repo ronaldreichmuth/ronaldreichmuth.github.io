@@ -1,8 +1,4 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-# highlighter: rouge
-
-# Conversion markdown: redcarpet 
-highlighter: rouge 
-# redcarpet: extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+highlighter: rouge
