@@ -15,16 +15,13 @@ Das ist meine persönliche Seite - [ronaldreichmuth.github.com](https://ronaldre
     ├── js          # javascripts
 └── downloads       # Downloads
 index.html          # Startseite  
-_config.yml         # Speichert die Konfiguraiton
+_config.yml         # Beinhaltet die Konfiguration
 ~~~
 
 
 ## Contributing
 
 Forke dieses Repository oder benütze es als Template für deine eigene Webseite.
-
-![](https://ronaldreichmuth.github.io/assets/images/bitcoin.png "Bitcoin Wallet")
-
 
 ## License
 
