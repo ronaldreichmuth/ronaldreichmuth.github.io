@@ -12,9 +12,3 @@ printf("Test");
 i++;
 i = 0;
 ```
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hi")
-puts markdown.to_html
-```
