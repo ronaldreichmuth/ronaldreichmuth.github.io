@@ -4,6 +4,9 @@ title: "Swift UIView Extension"
 date: 2018-03-31
 ---
 
+
+{% post.content | split:"<!-- more -->" %}
+
 ```swift
 extension UIImage {
     func resized(withPercentage percentage: CGFloat) -> UIImage? {
