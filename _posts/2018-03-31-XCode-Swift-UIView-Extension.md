@@ -3,7 +3,7 @@ layout: post
 title: "UIView Extension in Swift"
 date: 2018-03-31
 ---
-Nachfolgend eine praktische Erweiterung der UIImage Klasse zum verkleinern von Bildern vor einem Upload oder Darstellung auf einem Gerät.
+Nachfolgend eine praktische Erweiterung der UIImage Klasse. Die Funktion kann verwendet werden um Bildern vor einem Upload oder Darstellung zu verkleinern.
 
 ```swift
 extension UIImage {
