@@ -28,7 +28,7 @@ class TestEcho(unittest.TestCase):
         self.assertEqual(RxFrame, TxFrame)
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Serial port testing demo')
+    parser = argparse.ArgumentParser(description='Serial port loopback test')
     parser.add_argument('-p', '--port', default='loop://', help='Serial tport to test')
     args = parser.parse_args()
 
