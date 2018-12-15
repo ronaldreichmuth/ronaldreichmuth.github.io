@@ -4,9 +4,9 @@ title: "Testing your Code with Python"
 date: 2018-12-15
 ---
 
+Below a brief example of a python unit test script.
 
-
-
+test_example.py
 ```python
 
 
@@ -42,12 +42,12 @@ if __name__ == '__main__':
 ```
 
 
-how to use your script:
+How to run your testscript:
 ```
 python test_example.py
 ```
 
-output:
+Produces an output that looks like:
 ```
 test_EchoWithoutPayload (__main__.TestEcho) ... ok
 
