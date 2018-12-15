@@ -6,7 +6,7 @@ date: 2018-12-15
 
 Below a brief example of a test script with the python unittest framework. The example shows a 'echo' loopback test of the serial port.
 
->test_example.py
+test_example.py
 ```python
 import unittest
 import serial
