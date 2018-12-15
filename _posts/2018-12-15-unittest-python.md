@@ -40,3 +40,19 @@ if __name__ == '__main__':
     sys.argv[1:] = ['-v'] #enable a higher level of verbosity
     unittest.main()
 ```
+
+
+how to use your script:
+'''
+python test_example.py
+'''
+
+output:
+'''
+test_EchoWithoutPayload (__main__.TestEcho) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.011s
+
+OK
+'''
