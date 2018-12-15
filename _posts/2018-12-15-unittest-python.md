@@ -8,13 +8,10 @@ Below a brief example of a python unit test script.
 
 test_example.py
 ```python
-
-
 import unittest
 import serial
 import argparse
 import sys
-
 
 class TestEcho(unittest.TestCase):
     """Testing of echo functionality"""
@@ -29,7 +26,6 @@ class TestEcho(unittest.TestCase):
         self.serial.write(TxFrame)
         RxFrame = self.serial.read(len(TxFrame))
         self.assertEqual(RxFrame, TxFrame)
-
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Serial port testing demo')
