@@ -21,7 +21,7 @@ class TestEcho(unittest.TestCase):
     def tearDown(self):
         self.serial.close()
 
-    def test_EchoWithoutPayload(self):
+    def test_EchoWith2Bytes(self):
         TxFrame = '\x01\x02'
         self.serial.write(TxFrame)
         RxFrame = self.serial.read(len(TxFrame))
@@ -45,7 +45,7 @@ python test_example.py
 
 Produces an output that looks like:
 ```
-test_EchoWithoutPayload (__main__.TestEcho) ... ok
+test_EchoWith2Bytes(__main__.TestEcho) ... ok
 
 ----------------------------------------------------------------------
 Ran 1 test in 0.011s
