@@ -43,16 +43,16 @@ if __name__ == '__main__':
 
 
 how to use your script:
-'''
+```
 python test_example.py
-'''
+```
 
 output:
-'''
+```
 test_EchoWithoutPayload (__main__.TestEcho) ... ok
 
 ----------------------------------------------------------------------
 Ran 1 test in 0.011s
 
 OK
-'''
+```
