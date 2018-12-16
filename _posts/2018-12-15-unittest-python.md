@@ -4,7 +4,7 @@ title: "Testing your Code with Python"
 date: 2018-12-15
 ---
 
-Below a brief example of a test script with the python unittest framework. The example shows a 'echo' loopback test of the serial port.
+Below a brief example of a python unittest script. The example shows a echo loopback test of the serial port.
 
 test_example.py
 ```python
@@ -43,7 +43,7 @@ How to run your testscript:
 python test_example.py
 ```
 
-Produces an output that looks like:
+Produces the following output:
 ```
 test_EchoWith2Bytes(__main__.TestEcho) ... ok
 
